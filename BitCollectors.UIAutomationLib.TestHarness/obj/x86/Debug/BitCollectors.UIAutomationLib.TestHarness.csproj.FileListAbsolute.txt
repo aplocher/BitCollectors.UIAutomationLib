@@ -10,3 +10,15 @@ C:\Users\adamp.LM01\Dropbox\Projects2\BitCollectors.UIAutomationLib\BitCollector
 C:\Users\adamp.LM01\Dropbox\Projects2\BitCollectors.UIAutomationLib\BitCollectors.UIAutomationLib.TestHarness\obj\x86\Debug\LifeMed.GenericAutomationTestHarness.exe
 C:\Users\adamp.LM01\Dropbox\Projects2\BitCollectors.UIAutomationLib\BitCollectors.UIAutomationLib.TestHarness\obj\x86\Debug\LifeMed.GenericAutomationTestHarness.pdb
 C:\Users\adamp.LM01\Dropbox\Projects2\BitCollectors.UIAutomationLib\BitCollectors.UIAutomationLib.TestHarness\obj\x86\Debug\BitCollectors.UIAutomationLib.TestHarness.lblAutomationFile.resources
+C:\SourceCode\GitRepositories\BitCollectors.UIAutomationLib\BitCollectors.UIAutomationLib.TestHarness\bin\Debug\LifeMed.GenericAutomationTestHarness.exe.config
+C:\SourceCode\GitRepositories\BitCollectors.UIAutomationLib\BitCollectors.UIAutomationLib.TestHarness\obj\x86\Debug\LifeMed.GenericAutomationTestHarness.exe
+C:\SourceCode\GitRepositories\BitCollectors.UIAutomationLib\BitCollectors.UIAutomationLib.TestHarness\obj\x86\Debug\LifeMed.GenericAutomationTestHarness.pdb
+C:\SourceCode\GitRepositories\BitCollectors.UIAutomationLib\BitCollectors.UIAutomationLib.TestHarness\bin\Debug\LifeMed.GenericAutomationTestHarness.exe
+C:\SourceCode\GitRepositories\BitCollectors.UIAutomationLib\BitCollectors.UIAutomationLib.TestHarness\bin\Debug\LifeMed.GenericAutomationTestHarness.pdb
+C:\SourceCode\GitRepositories\BitCollectors.UIAutomationLib\BitCollectors.UIAutomationLib.TestHarness\bin\Debug\LifeMed.Module.GenericAutomation.dll
+C:\SourceCode\GitRepositories\BitCollectors.UIAutomationLib\BitCollectors.UIAutomationLib.TestHarness\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\SourceCode\GitRepositories\BitCollectors.UIAutomationLib\BitCollectors.UIAutomationLib.TestHarness\bin\Debug\LifeMed.Module.GenericAutomation.pdb
+C:\SourceCode\GitRepositories\BitCollectors.UIAutomationLib\BitCollectors.UIAutomationLib.TestHarness\obj\x86\Debug\BitCollectors.UIAutomationLib.TestHarness.csprojResolveAssemblyReference.cache
+C:\SourceCode\GitRepositories\BitCollectors.UIAutomationLib\BitCollectors.UIAutomationLib.TestHarness\obj\x86\Debug\BitCollectors.UIAutomationLib.TestHarness.lblAutomationFile.resources
+C:\SourceCode\GitRepositories\BitCollectors.UIAutomationLib\BitCollectors.UIAutomationLib.TestHarness\obj\x86\Debug\LifeMed.GenericAutomationTestHarness.Properties.Resources.resources
+C:\SourceCode\GitRepositories\BitCollectors.UIAutomationLib\BitCollectors.UIAutomationLib.TestHarness\obj\x86\Debug\BitCollectors.UIAutomationLib.TestHarness.csproj.GenerateResource.Cache

@@ -3,3 +3,7 @@ C:\Users\adamp.LM01\Dropbox\Projects2\BitCollectors.UIAutomationLib\BitCollector
 C:\Users\adamp.LM01\Dropbox\Projects2\BitCollectors.UIAutomationLib\BitCollectors.UIAutomationLib\bin\Debug\LifeMed.Module.GenericAutomation.pdb
 C:\Users\adamp.LM01\Dropbox\Projects2\BitCollectors.UIAutomationLib\BitCollectors.UIAutomationLib\obj\Debug\LifeMed.Module.GenericAutomation.dll
 C:\Users\adamp.LM01\Dropbox\Projects2\BitCollectors.UIAutomationLib\BitCollectors.UIAutomationLib\obj\Debug\LifeMed.Module.GenericAutomation.pdb
+C:\SourceCode\GitRepositories\BitCollectors.UIAutomationLib\BitCollectors.UIAutomationLib\bin\Debug\LifeMed.Module.GenericAutomation.dll
+C:\SourceCode\GitRepositories\BitCollectors.UIAutomationLib\BitCollectors.UIAutomationLib\bin\Debug\LifeMed.Module.GenericAutomation.pdb
+C:\SourceCode\GitRepositories\BitCollectors.UIAutomationLib\BitCollectors.UIAutomationLib\obj\Debug\LifeMed.Module.GenericAutomation.dll
+C:\SourceCode\GitRepositories\BitCollectors.UIAutomationLib\BitCollectors.UIAutomationLib\obj\Debug\LifeMed.Module.GenericAutomation.pdb
