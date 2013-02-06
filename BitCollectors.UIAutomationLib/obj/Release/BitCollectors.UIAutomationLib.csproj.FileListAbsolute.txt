@@ -1,0 +1,6 @@
+C:\Users\adamp.LM01\Dropbox\Projects2\BitCollectors.UIAutomationLib\BitCollectors.UIAutomationLib\bin\Release\LifeMed.Module.GenericAutomation.dll.config
+C:\Users\adamp.LM01\Dropbox\Projects2\BitCollectors.UIAutomationLib\BitCollectors.UIAutomationLib\bin\Release\LifeMed.Module.GenericAutomation.dll
+C:\Users\adamp.LM01\Dropbox\Projects2\BitCollectors.UIAutomationLib\BitCollectors.UIAutomationLib\bin\Release\LifeMed.Module.GenericAutomation.pdb
+C:\Users\adamp.LM01\Dropbox\Projects2\BitCollectors.UIAutomationLib\BitCollectors.UIAutomationLib\obj\Release\LifeMed.Module.GenericAutomation.dll
+C:\Users\adamp.LM01\Dropbox\Projects2\BitCollectors.UIAutomationLib\BitCollectors.UIAutomationLib\obj\Release\LifeMed.Module.GenericAutomation.pdb
+C:\Users\adamp.LM01\Dropbox\Projects2\BitCollectors.UIAutomationLib\BitCollectors.UIAutomationLib\obj\Release\BitCollectors.UIAutomationLib.csprojResolveAssemblyReference.cache

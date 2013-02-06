@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Automation>
+  <!-- Find the first open Notepad window -->
+  <FormHandle TitleBarRegex="^(.*?) - Notepad$" />
+
+  <InputActions>
+    <InputBatch Timeout="150">
+      <!-- Click in the window -->
+      <MouseClick Type="Click" RelativeTo="Window" X="80" Y="80" />
+    </InputBatch>
+
+    <InputBatch Timeout="200">
+      <!-- Press CTRL+A to select all text, and then press DELETE to clear out the window -->
+      <KeyStroke Type="downup" Value="{CTRL}+A" />
+      <KeyStroke Type="downup" Value="{DEL}" />
+    </InputBatch>
+
+    <InputBatch Timeout="10">
+      <!-- Send in the {USERTEXT} macro.  This will simulate keystrokes for whatever you define {USERTEXT} to be -->
+      <KeyStroke Type="downup" Value="{USERTEXT}" />
+    </InputBatch>
+
+    <InputBatch Timeout="10">
+      <!-- Press the ENTER key to start a new line -->
+      <KeyStroke Type="downup" Value="{ENTER}" />
+    </InputBatch>
+
+    <InputBatch Timeout="10">
+      <!-- This will simulate uppercase letters vs lowercase letters by holding the SHIFT key down -->
+      <!-- Hold down the SHIFT key and type C A P S, release the SHIFT key, type a SPACE followed by the letters L O W E R -->
+      <KeyStroke Type="down" Value="{SHIFT}" />
+      <KeyStroke Type="downup" Value="C" />
+      <KeyStroke Type="downup" Value="A" />
+      <KeyStroke Type="downup" Value="P" />
+      <KeyStroke Type="downup" Value="S" />
+      <KeyStroke Type="up" Value="{SHIFT}" />
+
+      <KeyStroke Type="downup" Value=" " />
+      <KeyStroke Type="downup" Value="l" />
+      <KeyStroke Type="downup" Value="o" />
+      <KeyStroke Type="downup" Value="w" />
+      <KeyStroke Type="downup" Value="e" />
+      <KeyStroke Type="downup" Value="r" />
+    </InputBatch>
+  </InputActions>
+  <Messages>
+    <Message Type="WindowHandleFailed" Value="Could not find the application running.  Please make sure application is running." />
+  </Messages>
+</Automation>

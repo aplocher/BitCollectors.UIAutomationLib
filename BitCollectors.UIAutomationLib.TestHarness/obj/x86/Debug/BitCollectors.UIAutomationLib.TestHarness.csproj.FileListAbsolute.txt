@@ -1,0 +1,12 @@
+C:\Users\adamp.LM01\Dropbox\Projects2\BitCollectors.UIAutomationLib\BitCollectors.UIAutomationLib.TestHarness\bin\Debug\LifeMed.GenericAutomationTestHarness.exe.config
+C:\Users\adamp.LM01\Dropbox\Projects2\BitCollectors.UIAutomationLib\BitCollectors.UIAutomationLib.TestHarness\bin\Debug\LifeMed.GenericAutomationTestHarness.exe
+C:\Users\adamp.LM01\Dropbox\Projects2\BitCollectors.UIAutomationLib\BitCollectors.UIAutomationLib.TestHarness\bin\Debug\LifeMed.GenericAutomationTestHarness.pdb
+C:\Users\adamp.LM01\Dropbox\Projects2\BitCollectors.UIAutomationLib\BitCollectors.UIAutomationLib.TestHarness\bin\Debug\LifeMed.Module.GenericAutomation.dll
+C:\Users\adamp.LM01\Dropbox\Projects2\BitCollectors.UIAutomationLib\BitCollectors.UIAutomationLib.TestHarness\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\adamp.LM01\Dropbox\Projects2\BitCollectors.UIAutomationLib\BitCollectors.UIAutomationLib.TestHarness\bin\Debug\LifeMed.Module.GenericAutomation.pdb
+C:\Users\adamp.LM01\Dropbox\Projects2\BitCollectors.UIAutomationLib\BitCollectors.UIAutomationLib.TestHarness\obj\x86\Debug\BitCollectors.UIAutomationLib.TestHarness.csprojResolveAssemblyReference.cache
+C:\Users\adamp.LM01\Dropbox\Projects2\BitCollectors.UIAutomationLib\BitCollectors.UIAutomationLib.TestHarness\obj\x86\Debug\LifeMed.GenericAutomationTestHarness.Properties.Resources.resources
+C:\Users\adamp.LM01\Dropbox\Projects2\BitCollectors.UIAutomationLib\BitCollectors.UIAutomationLib.TestHarness\obj\x86\Debug\BitCollectors.UIAutomationLib.TestHarness.csproj.GenerateResource.Cache
+C:\Users\adamp.LM01\Dropbox\Projects2\BitCollectors.UIAutomationLib\BitCollectors.UIAutomationLib.TestHarness\obj\x86\Debug\LifeMed.GenericAutomationTestHarness.exe
+C:\Users\adamp.LM01\Dropbox\Projects2\BitCollectors.UIAutomationLib\BitCollectors.UIAutomationLib.TestHarness\obj\x86\Debug\LifeMed.GenericAutomationTestHarness.pdb
+C:\Users\adamp.LM01\Dropbox\Projects2\BitCollectors.UIAutomationLib\BitCollectors.UIAutomationLib.TestHarness\obj\x86\Debug\BitCollectors.UIAutomationLib.TestHarness.lblAutomationFile.resources
