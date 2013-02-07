@@ -13,6 +13,9 @@ a batch of key strokes out from some user input.  For example, in your Automatio
 called {USERTEXT} and then associate that to some text from a textbox.  When your script runs, it will generate key strokes for
 that text.  You can have as many macros as you want defined.
 
+NOTE: I've had issues with certain Windows API calls on X64 machines when the build platform is configured for Any CPU.  If you
+run in to problems with the automation not working, try setting your build platform to X86.
+
 To get started, reference BitCollectors.UIAutomationLib.dll in your .NET Project.  The code to harness the DLL is very easy to
 implement.  See below:
 
