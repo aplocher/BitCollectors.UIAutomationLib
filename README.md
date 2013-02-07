@@ -21,26 +21,26 @@ implement.  See below:
 
 Basic usage (C#):
 
-	using BitCollectors.UIAutomationLib.Entities;
-	using BitCollectors.UIAutomationLib.Helpers;
+    using BitCollectors.UIAutomationLib.Entities;
+    using BitCollectors.UIAutomationLib.Helpers;
 
-	...
+    ...
 
-	UIAutomation automationConfig = XmlHelper.ProcessXmlFile("C:\\Temp\\MyAutomationScript.xml");
+    UIAutomation automationConfig = XmlHelper.ProcessXmlFile("C:\\Temp\\MyAutomationScript.xml");
 
-	if (automationConfig != null)
-	{
-		Win32Helper win32 = new Win32Helper();
-		win32.ExecuteAutomation(automationConfig);
-	}
+    if (automationConfig != null)
+    {
+        Win32Helper win32 = new Win32Helper();
+        win32.ExecuteAutomation(automationConfig);
+    }
 
 Basic usage with macros (C#):
 
-	using BitCollectors.UIAutomationLib.Entities;
-	using BitCollectors.UIAutomationLib.Helpers;
-	using System.Collections.Specialized;
+    using BitCollectors.UIAutomationLib.Entities;
+    using BitCollectors.UIAutomationLib.Helpers;
+    using System.Collections.Specialized;
 
-	...
+    ...
 
     StringDictionary macros = new StringDictionary();
     macros.Add("{USERTEXT}", textBox1.Text);
